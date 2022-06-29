@@ -2,7 +2,7 @@
  Esta nueva versión fue desarrollada en JAVA y también incluye los días festivos oficiales para Colombia
 
 1. El archivo Calendario.exe 
-    corresponde a un instalador para el 
+    corresponde al instalador para el 
     sistema operativo Windows 10.
 
 2. Los archivos Calendario.7z, 

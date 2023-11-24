@@ -3,7 +3,7 @@
 
 1. El archivo Calendario.exe 
     corresponde al instalador para el 
-    sistema operativo Windows 10.
+    sistema operativo Windows.
 
 2. Los archivos Calendario.rar y Calendario.exe 
     corresponden al programa y sus 
